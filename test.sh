@@ -2,6 +2,7 @@
 
 # Test the get_posts function
 get_posts_test() {
+# Updated - v8.1.0
   local expected='[{"id": 1, "title": "My First Post", "content": "This is my first post."}]'
   local actual=$(get_posts)
   if [ "$actual" != "$expected" ]; then
