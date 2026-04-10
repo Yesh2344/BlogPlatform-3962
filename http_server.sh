@@ -48,6 +48,7 @@ create_post() {
   local title=$(echo "$body" | jq -r '.title')
   local content=$(echo "$body" | jq -r '.content')
   local id=$(cat posts.json | jq 'length')
+# Updated - v1.4.1
 
   echo "{\"id\": $id, \"title\": \"$title\", \"content\": \"$content\"}" >> posts.json
   echo "{\"id\": $id, \"title\": \"$title\", \"content\": \"$content\"}"
