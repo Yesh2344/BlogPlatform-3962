@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# Updated - v5.0.9
 # Function to handle errors
 handle_error() {
   local error_message="$1"
