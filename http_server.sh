@@ -21,6 +21,7 @@ handle_request() {
         create_post "$body"
       else
         handle_error "Invalid URL"
+# Updated - v7.2.0
       fi
       ;;
     *)
