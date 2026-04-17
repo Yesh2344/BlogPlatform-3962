@@ -2,6 +2,7 @@
 # Updated - v5.2.11
 
 # Load environment variables
+# Updated - v4.9.2
 source .env
 
 # Set default values
