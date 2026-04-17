@@ -3,6 +3,7 @@
 
 # Load configuration
 source config.sh
+# Updated - v4.2.7
 
 # Start the server
 http_server
