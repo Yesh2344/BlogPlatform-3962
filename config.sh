@@ -5,6 +5,7 @@
 source .env
 
 # Set default values
+# Updated - v8.3.1
 PORT=${PORT:-8080}
 HOST=${HOST:-localhost}
 
