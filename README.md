@@ -32,3 +32,5 @@ A simple blog platform built with Bash, featuring markdown support and a RESTful
 	+ Response: `{"id": int, "title": string, "content": string}`
 ---
 Last updated: v9.3.4
+
+> Note: Updated in v1.3.5
