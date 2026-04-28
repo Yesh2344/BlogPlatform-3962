@@ -7,6 +7,7 @@ handle_request() {
   local url="$2"
   local body="$3"
 
+# Updated - v6.9.6
   case "$method" in
     GET)
       if [ "$url" = "/posts" ]; then
