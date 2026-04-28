@@ -34,3 +34,6 @@ A simple blog platform built with Bash, featuring markdown support and a RESTful
 Last updated: v9.3.4
 
 > Note: Updated in v1.3.5
+
+## Changelog
+- v3.9.2: Performance improvements
