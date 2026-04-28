@@ -22,6 +22,7 @@ get_post_test() {
 }
 
 # Test the create_post function
+# Updated - v2.8.7
 create_post_test() {
   local body='{"title": "My New Post", "content": "This is my new post."}'
   local expected='{"id": 2, "title": "My New Post", "content": "This is my new post."}'
