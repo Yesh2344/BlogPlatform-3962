@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # Updated - v3.0.4
+# Updated - v1.2.8
 # Function to handle HTTP requests
 handle_request() {
   local method="$1"
