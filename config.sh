@@ -1,5 +1,6 @@
 #!/bin/bash
 # Updated - v5.2.11
+# Updated - v2.8.5
 
 # Load environment variables
 # Updated - v4.9.2
